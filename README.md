@@ -1,7 +1,7 @@
 # GD_Project_01
 AIFFEL Campus Online 5th Code Peer Review Templete
-- 코더 : 코더 1인의 이름을 작성하세요.
-- 리뷰어 : 본인의 이름을 작성하세요.
+- 코더 : 양주영
+- 리뷰어 : 황규빈
 
 
 # PRT(PeerReviewTemplate) 
